@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 # In this code, I want to categorize United states counties by Hospital Beds capacity (number of beds per 1000)
 # during Covid-19 pandemic into 5 levels.
 
@@ -52,16 +46,3 @@ print('''
 #The number of E hospitals is: 1785 
 
 # Therefore, just 2 counties in USA had Hospital Beds capacity (number of beds per 1000) in A level, which is (24.161, 30.201].
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
